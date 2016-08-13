@@ -12,7 +12,7 @@ Using bower is the simplest way.
 
 Load insertAtCaret.js
 
-    <script src="js/insertAtCaret/insertAtCaret.js"></script>
+    <script src="js/insert-at-caret/insertAtCaret.js"></script>
 
 # Usage
 
