@@ -6,13 +6,13 @@ A JavaScript package to insert a text at caret position.
 # Installation
 Using bower is the simplest way.
 
-    bower install inputAtCaret --save-dev
+    bower install insertAtCaret --save-dev
 
 # Preparation
 
-Load inputAtCaret.js
+Load insertAtCaret.js
 
-    <script src="js/inputAtCaret/inputAtCaret.js"></script>
+    <script src="js/insertAtCaret/insertAtCaret.js"></script>
 
 # Usage
 

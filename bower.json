@@ -1,6 +1,6 @@
 {
-  "name": "inputAtCaret",
-  "main": "inputAtCaret.js",
+  "name": "insertAtCaret",
+  "main": "insertAtCaret.js",
   "authors": [
     "Sukohi Kuhoh <capilano.sukohi@gmail.com>"
   ],
