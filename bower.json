@@ -1,5 +1,5 @@
 {
-  "name": "insertAtCaret",
+  "name": "insert-at-caret",
   "main": "insertAtCaret.js",
   "authors": [
     "Sukohi Kuhoh <capilano.sukohi@gmail.com>"
