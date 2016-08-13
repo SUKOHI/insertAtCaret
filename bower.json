@@ -1,0 +1,17 @@
+{
+  "name": "inputAtCaret",
+  "main": "inputAtCaret.js",
+  "authors": [
+    "Sukohi Kuhoh <capilano.sukohi@gmail.com>"
+  ],
+  "description": "A JavaScript package to insert a text at caret position.",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
